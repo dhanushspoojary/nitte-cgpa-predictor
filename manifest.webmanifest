@@ -1,0 +1,9 @@
+{
+  "name": "NITTE CGPA Predictor",
+  "short_name": "NITTE CGPA",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#050a12",
+  "theme_color": "#07101d",
+  "description": "Privacy-first SGPA and CGPA planning dashboard."
+}
